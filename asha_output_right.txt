@@ -1,0 +1,275 @@
+Bluetooth enabled: true
+Adapter: Default Adapter [9FE3FDFA-0FA8-42B6-9BBD-1B2A7AE059C5] [9FE3FDFA-0FA8-42B6-9BBD-1B2A7AE059C5]
+Scan started.
+Found device:  [DC9565CA-3133-7C59-FDFB-F27750235913] -88 dBm
+Updated device:  [DC9565CA-3133-7C59-FDFB-F27750235913] -88 dBm
+Found device:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -83 dBm
+Updated device:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -84 dBm
+Found device:  [2DB79A07-6ED4-6E10-3430-62DCAE4CCED3] -84 dBm
+Found device:  [A33EBF2D-7540-21F8-D250-BD343BE220C3] -91 dBm
+Updated device:  [A33EBF2D-7540-21F8-D250-BD343BE220C3] -91 dBm
+Found device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -69 dBm
+Found device:  [320658CB-F60A-805E-1985-F9B996C88E6D] -73 dBm
+Updated device:  [320658CB-F60A-805E-1985-F9B996C88E6D] -73 dBm
+Found device:  [D1E3A81A-42CF-05E9-6799-11D5245AAFE3] -95 dBm
+Found device: Echo Dot-5SJ [0163EF70-60D5-505F-39A6-8ADD3099E71D] -97 dBm
+Found device:  [A9144B2C-7F24-B539-16C8-15CBF8EA7005] -88 dBm
+Found device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -80 dBm
+Found device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -70 dBm
+Updated device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -71 dBm
+Found device:  [71E7F4CF-CFD5-8BBC-625B-8B781BCAAFE6] -75 dBm
+Found device:  [1538691D-7FC0-FF7B-CC81-C17F185BB397] -94 dBm
+Updated device:  [1538691D-7FC0-FF7B-CC81-C17F185BB397] -94 dBm
+Found device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -74 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -74 dBm
+Found device:  [041FB030-5B29-0405-5A09-2F50B9643505] -90 dBm
+Found device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -74 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -73 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -74 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -74 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -89 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -89 dBm
+Found device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -67 dBm
+Found device:  [B4DB53A5-2918-7BAA-1144-6DFD29DCEC91] -95 dBm
+Updated device:  [D1E3A81A-42CF-05E9-6799-11D5245AAFE3] -95 dBm
+Found device:  [615BEC6C-D0F2-07D4-1EEE-4C2DCFEE124D] -87 dBm
+Updated device:  [615BEC6C-D0F2-07D4-1EEE-4C2DCFEE124D] -87 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -60 dBm
+Updated device:  [71E7F4CF-CFD5-8BBC-625B-8B781BCAAFE6] -74 dBm
+Updated device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -70 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -65 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -74 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -74 dBm
+Found device:  [F5AE5FE6-07BC-08AD-3007-1A54F707044E] -90 dBm
+Updated device:  [F5AE5FE6-07BC-08AD-3007-1A54F707044E] -89 dBm
+Found device:  [5CACB2F1-4C81-64DD-10A6-C31DB70EE4F6] -86 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -92 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -91 dBm
+Found device: [TV] Samsung AU8000 55 TV [3A584F42-7FC6-2BF6-FE67-538EEFC325D4] -78 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -80 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -80 dBm
+Found device:  [0485CFB3-DE4F-02D7-4AE8-8630EB86ADF0] -99 dBm
+Found device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -65 dBm
+Updated device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -65 dBm
+Found device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -52 dBm
+Updated device:  [5CACB2F1-4C81-64DD-10A6-C31DB70EE4F6] -95 dBm
+Found device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -50 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -50 dBm
+Found device:  [17A05592-4247-282C-DE31-44AC69228E95] -80 dBm
+Found device:  [C7B5A531-80DA-8AC0-7057-35A57BE9D66E] -86 dBm
+Updated device:  [C7B5A531-80DA-8AC0-7057-35A57BE9D66E] -87 dBm
+Updated device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -84 dBm
+Updated device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -84 dBm
+Updated device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -70 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -66 dBm
+Updated device:  [C7B5A531-80DA-8AC0-7057-35A57BE9D66E] -97 dBm
+Found device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -75 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -75 dBm
+Updated device: [TV] Samsung AU8000 55 TV [3A584F42-7FC6-2BF6-FE67-538EEFC325D4] -85 dBm
+Updated device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -69 dBm
+Updated device: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -69 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -64 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -64 dBm
+Found device:  [290DC7D4-B1E3-223C-00CF-F8E86E98346B] -82 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -57 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -56 dBm
+Updated device:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -78 dBm
+Updated device:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -78 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -84 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -54 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -54 dBm
+Updated device:  [D1E3A81A-42CF-05E9-6799-11D5245AAFE3] -95 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -62 dBm
+Updated device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -71 dBm
+Updated device:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -83 dBm
+Updated device: [TV] Samsung AU8000 55 TV [3A584F42-7FC6-2BF6-FE67-538EEFC325D4] -77 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -53 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -53 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -77 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -77 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -52 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -52 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -53 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -53 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -78 dBm
+Updated device:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -77 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -68 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -78 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -78 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -74 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -75 dBm
+Updated device:  [A33EBF2D-7540-21F8-D250-BD343BE220C3] -93 dBm
+Found device: [TV] Samsung 7 Series (58) [60B633BC-2125-16D4-C279-78FE8EEF4068] -86 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -67 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -56 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -56 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -75 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -75 dBm
+Updated device: [TV] Samsung AU8000 55 TV [3A584F42-7FC6-2BF6-FE67-538EEFC325D4] -81 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -64 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -64 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -64 dBm
+Updated device: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -64 dBm
+Updated device:  [D1E3A81A-42CF-05E9-6799-11D5245AAFE3] -96 dBm
+Updated device:  [0485CFB3-DE4F-02D7-4AE8-8630EB86ADF0] -94 dBm
+Updated device:  [0485CFB3-DE4F-02D7-4AE8-8630EB86ADF0] -95 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -62 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -62 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -77 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -77 dBm
+Found device:  [4D7C4826-F61E-6FCA-F680-C5BC5B0C1175] -95 dBm
+Updated device:  [4D7C4826-F61E-6FCA-F680-C5BC5B0C1175] -95 dBm
+Updated device:  [4D7C4826-F61E-6FCA-F680-C5BC5B0C1175] -94 dBm
+Updated device:  [4D7C4826-F61E-6FCA-F680-C5BC5B0C1175] -94 dBm
+Updated device: [TV] Samsung 7 Series (58) [60B633BC-2125-16D4-C279-78FE8EEF4068] -80 dBm
+Updated device:  [320658CB-F60A-805E-1985-F9B996C88E6D] -73 dBm
+Updated device:  [320658CB-F60A-805E-1985-F9B996C88E6D] -73 dBm
+Updated device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -73 dBm
+Updated device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -72 dBm
+Updated device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -72 dBm
+Found device:  [90C7613C-EF68-E521-7421-6A994D68D620] -82 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -61 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -61 dBm
+Updated device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -71 dBm
+Updated device:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -71 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -73 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -77 dBm
+Updated device: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -77 dBm
+Updated device:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -67 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -50 dBm
+Updated device: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -50 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -80 dBm
+Updated device:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -80 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -63 dBm
+Updated device: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -63 dBm
+Updated device:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -76 dBm
+Scan stopped.
+Scan complete.
+The following devices were found:
+0: Echo Dot-5SJ [0163EF70-60D5-505F-39A6-8ADD3099E71D] -97 dBm unknown
+1:  [D1E3A81A-42CF-05E9-6799-11D5245AAFE3] -96 dBm unknown
+2:  [71E7F4CF-CFD5-8BBC-625B-8B781BCAAFE6] -74 dBm unknown
+3:  [17A05592-4247-282C-DE31-44AC69228E95] -80 dBm unknown
+4:  [95A95B5C-0064-5891-9C32-E5CCBE9CF5AB] -77 dBm unknown
+5:  [320658CB-F60A-805E-1985-F9B996C88E6D] -73 dBm unknown
+6:  [DC9565CA-3133-7C59-FDFB-F27750235913] -88 dBm unknown
+7:  [2DB79A07-6ED4-6E10-3430-62DCAE4CCED3] -84 dBm unknown
+8:  [041FB030-5B29-0405-5A09-2F50B9643505] -90 dBm unknown
+9:  [A9144B2C-7F24-B539-16C8-15CBF8EA7005] -88 dBm unknown
+10:  [290DC7D4-B1E3-223C-00CF-F8E86E98346B] -82 dBm unknown
+11:  [B4DB53A5-2918-7BAA-1144-6DFD29DCEC91] -95 dBm unknown
+12:  [4AA94EB5-E1FA-6979-25F3-1A7F0A1CF81C] -71 dBm unknown
+13:  [8AD89C64-3EA4-9416-12BC-A135F9D99049] -76 dBm unknown
+14: [TV] Samsung QN90BA 65 [77758ADF-D877-6BD5-1995-4933EFB54EE2] -64 dBm unknown
+15:  [C7B5A531-80DA-8AC0-7057-35A57BE9D66E] -97 dBm unknown
+16: [TV] Samsung Q6 Series (55) [7AA714FE-7FCA-C5C0-30B7-B8AE927A859B] -77 dBm unknown
+17: [TV] Samsung 7 Series (58) [60B633BC-2125-16D4-C279-78FE8EEF4068] -80 dBm unknown
+18:  [35F87499-E4A1-4C74-4FAE-04CB0BEFBEC3] -67 dBm unknown
+19:  [90C7613C-EF68-E521-7421-6A994D68D620] -82 dBm unknown
+20:  [0485CFB3-DE4F-02D7-4AE8-8630EB86ADF0] -95 dBm unknown
+21:  [A33EBF2D-7540-21F8-D250-BD343BE220C3] -93 dBm unknown
+22:  [67E3EE83-57C1-3CF3-65D7-0846314F0FB9] -83 dBm unknown
+23: [TV] Samsung AU8000 55 TV [3A584F42-7FC6-2BF6-FE67-538EEFC325D4] -81 dBm unknown
+24:  [4D7C4826-F61E-6FCA-F680-C5BC5B0C1175] -94 dBm unknown
+25:  [615BEC6C-D0F2-07D4-1EEE-4C2DCFEE124D] -87 dBm unknown
+26: HK Hearing Devices [FED27DBE-5920-3ABE-A804-73372697A52A] -50 dBm unknown
+27:  [F5AE5FE6-07BC-08AD-3007-1A54F707044E] -89 dBm unknown
+28:  [5CACB2F1-4C81-64DD-10A6-C31DB70EE4F6] -95 dBm unknown
+29: Harrison’s iPhone [A023F4A7-482A-8FC4-9437-CF158D6A5391] -69 dBm unknown
+30: HK Hearing Devices [66D753AB-C161-E8DB-7896-C1A8B2FEBF71] -63 dBm unknown
+31:  [1538691D-7FC0-FF7B-CC81-C17F185BB397] -94 dBm unknown
+32:  [7309EC07-532B-40BE-FEA0-878E97E87A72] -80 dBm unknown
+Select a device to connect to:
+Connecting to device...
+Connected to device.
+Connected to device.
+MTU: 173
+Service: 0000180a-0000-1000-8000-00805f9b34fb
+    Characteristic: 00002a29-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+    Characteristic: 00002a24-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+    Characteristic: 00002a25-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+    Characteristic: 00002a27-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+    Characteristic: 00002a26-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+    Characteristic: 00002a50-0000-1000-8000-00805f9b34fb
+        Capabilities: [Read]
+Service: 7d74f4bd-c74a-4431-862c-cce884371592
+    Characteristic: 16438c66-e95a-4c6f-8117-a6b745bd86fc
+        Capabilities: [Read]
+    Characteristic: 24e1dff3-ae90-41bf-bfbd-2cf8df42bf87
+        Capabilities: [Read, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 8d17ac2f-1d54-4742-a49a-ef4b20784eb3
+        Capabilities: [Read]
+    Characteristic: c97d21d3-d79d-4df8-9230-bb33fa805f4e
+        Capabilities: [Read]
+    Characteristic: 497eeb9e-b194-4f35-bc82-36fd300482a6
+        Capabilities: [Read]
+    Characteristic: 4603580d-3c15-4fec-93be-b86b243ada64
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 6ac46200-24ea-46d8-a136-81133c65840a
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 21ff4275-c41d-4486-a0e3-dc11138bcde6
+        Capabilities: [Read]
+    Characteristic: a391c6f1-20bb-495a-abbf-2017098fbc61
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: adc3023d-bfd2-43fd-86f6-7ae05a619092
+        Capabilities: [Read, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: a28b6be1-2fa4-42f8-aeb2-b15a1dbd837a
+        Capabilities: [Read, WriteRequest]
+    Characteristic: 7be94a55-8d91-4592-bc0f-ea3664ccd3a9
+        Capabilities: [Read]
+    Characteristic: 9c12a3db-9ce8-4865-a217-d394b3bc9311
+        Capabilities: [Read]
+    Characteristic: aea12a32-60ed-43ba-be6f-ba6092000fdb
+        Capabilities: [Read]
+    Characteristic: f3f594f9-e210-48f3-85e2-4b0cf235a9d3
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: e893c687-7c43-4999-8fd0-6cb11d0f88cd
+        Capabilities: [Read]
+    Characteristic: 98924a39-6559-40a8-b302-3c8e40dbf834
+        Capabilities: [Read]
+    Characteristic: 4656d3ac-c2df-4096-96e7-713580b69ccd
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 76b3db1f-44c4-46cc-a7b5-e9ce7dfbef50
+        Capabilities: [Read]
+Service: 3c3c6c6b-c9bc-4704-bb14-2ffd32b5aa31
+    Characteristic: 31291857-6a7e-4b77-8655-feb603498758
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 0472ca69-929b-44ad-9821-97078d06c362
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 47c7e464-7bb4-4c8b-9515-3a2141b65300
+        Capabilities: [WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 962020af-7715-4f77-b8db-b2ea0e89415b
+        Capabilities: [Read, WriteRequest, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 8e5abd16-d6e0-4efb-8881-4d9d257b017a
+        Capabilities: [Read]
+    Characteristic: 18e77d96-c2a2-4da9-a848-436a8aea81ba
+        Capabilities: [Read]
+Service: 0000fdf0-0000-1000-8000-00805f9b34fb
+    Characteristic: 6333651e-c481-4a3e-9169-7c902aad37bb
+        Capabilities: [Read]
+    Characteristic: f0d4de7e-4a88-476c-9d9f-1937b0996cc0
+        Capabilities: [WriteRequest, WriteCommand]
+    Characteristic: 38663f1a-e711-4cac-b641-326b56404837
+        Capabilities: [Read, Notify]
+        Descriptor: 00002902-0000-1000-8000-00805f9b34fb
+    Characteristic: 00e4ca9e-ab14-41e4-8823-f9e70c7e91df
+        Capabilities: [WriteCommand]
+    Characteristic: 2d410339-82b6-42aa-b34e-e2e01df8cc1a
+        Capabilities: [Read]
+Disconnected from device.
